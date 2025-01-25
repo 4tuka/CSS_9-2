@@ -1,0 +1,302 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #53389E;
+    ;
+    display: flex;
+    justify-content: space-between;
+    padding: 28px 112px 28px;
+
+}
+
+.untitled {
+    display: flex;
+    gap: 20px;
+    color: #fff;
+}
+
+.cherevon {
+    display: flex;
+    align-items: center;
+}
+
+.log {
+    display: flex;
+    padding: 10px 16px;
+    justify-content: center;
+    align-items: center;
+    border-radius: var(--radius-md, 8px);
+    background: #FFF;
+    border: none;
+}
+
+.sign {
+    display: flex;
+    padding: 10px 16px;
+    border-radius: var(--radius-md, 8px);
+    background: #7F56D9;
+    color: #FFF;
+    border: none;
+    align-items: center;
+}
+
+.button_class {
+    display: flex;
+    gap: 12px;
+}
+
+.super {
+    background: #53389E;
+    padding-top: 96px;
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.button_div {
+    display: flex;
+    gap: 12px;
+}
+
+.banking {
+    padding: 0px 0px 8px 0px;
+}
+
+.that {
+    padding: 0px 0px 24px 0px;
+}
+
+.simple {
+    padding: 0px 0px 48px 0px;
+}
+
+.cards {
+    padding: 64px 0px 0px;
+}
+
+.join {
+    padding: 96px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+}
+
+.company_logo_class {
+    display: flex;
+    gap: 24px;
+}
+
+.already {
+    color: #535862;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.reports {
+    display: flex;
+    background: #F2EDFF;
+    padding: 96px 0px;
+    justify-content: center;
+    gap: 64px;
+}
+
+.svg {
+    max-width: 56px;
+    width: 100%;
+}
+
+
+.lp {
+    display: flex;
+    flex-direction: column;
+    max-width: 360px;
+    gap: 20px;
+}
+
+.pl {
+    max-width: 364px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.grey {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.inbox {
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+    width: 100%;
+    max-width: 1280px;
+}
+
+.minimums {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    max-width: 768px;
+    width: 100%;
+    max-width: 1280px;
+    width: 100%;
+}
+
+.arrow {
+    display: flex;
+    gap: 6px;
+    padding-top: 20px;
+    color: #6941C6;
+}
+
+.share {
+    padding: 16px 0px 16px 24px;
+    display: flex;
+    flex-direction: column;
+    max-width: 560px;
+    width: 100%;
+    border-left: 4px solid #F5F5F5;
+}
+
+.share H3 {
+    padding-bottom: 8px;
+}
+
+.whether {
+    color: #535862;
+}
+
+.sharee {
+    padding: 16px 0px 16px 24px;
+    display: flex;
+    flex-direction: column;
+    max-width: 560px;
+    width: 100%;
+    border-left: 4px solid #9E77ED;
+}
+
+.photo_div {
+    display: flex;
+    gap: 64px;
+    justify-content: center;
+}
+
+.la {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.deliver {
+    display: flex;
+    justify-content: center;
+}
+
+
+.back {
+    background: #F2EDFF;
+    padding: 96px 0px;
+    display: flex;
+    justify-content: center;
+    gap: 64px;
+}
+
+.bb {
+    display: flex;
+    gap: 12px;
+}
+
+.billed {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: var(--spacing-4xl, 32px) var(--spacing-4xl, 32px) var(--spacing-5xl, 40px) var(--spacing-4xl, 32px);
+    color: #535862;
+}
+
+.basic {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 1px solid #E9EAEB;
+    background: #FAFAFA;
+    border-radius: 8px;
+}
+
+.icon {
+    max-width: 48px;
+    width: 100%;
+    padding-bottom: 16px;
+}
+
+.vv {
+    padding: var(--spacing-4xl, 32px) var(--spacing-4xl, 32px) 0px var(--spacing-4xl, 32px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ten {
+    padding: 8px 0px;
+}
+
+.button_class_div {
+    padding: var(--spacing-4xl, 32px);
+    border-top: 1px solid #E9EAEB;
+    background: #FAFAFA;
+    max-width: 296px;
+    width: 100%;
+}
+
+.started {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    display: flex;
+    padding: var(--spacing-lg, 12px) 18px;
+    justify-content: center;
+    align-items: center;
+    gap: var(--spacing-sm, 6px);
+    align-self: stretch;
+    border-radius: var(--radius-md, 8px);
+    background: #7F56D9;
+    border: none;
+    max-width: 296px;
+    width: 100%;
+}
+
+.scale {
+    max-width: 440px;
+    width: 100%;
+}
+
+.dolar_conateiner {
+    display: flex;
+    gap: 32px;
+}
+
+.scale h2 {
+    padding: 12px 0px 20px 0px;
+    color: #181D27;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+}
