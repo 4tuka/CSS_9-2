@@ -507,4 +507,10 @@ footer {
         gap: 96px;
         padding: 0px 32px;
     }
+    
+}
+
+.pl_class {
+    display: flex;
+    gap: 64px;
 }
